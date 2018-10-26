@@ -1,0 +1,19 @@
+{
+  "name": "google",
+  "version": "1.0.0",
+  "description": "Prep for interview.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsonkao/google.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsonkao/google/issues"
+  },
+  "homepage": "https://github.com/jsonkao/google#readme"
+}
